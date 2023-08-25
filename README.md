@@ -4,6 +4,12 @@
 
 赛题：[proj113-spdk-based-io-multi-path](https://github.com/oscomp/proj113-spdk-based-io-multi-path)
 
+本项目获得了2023年第三届全国大学生计算机系统能力大赛操作系统设计赛的**国家级一等奖**。
+
+[一等奖+4！深圳校区学子在全国大学生操作系统设计赛中创历史最佳战绩](https://www.hitsz.edu.cn/article/view/id-142937.html)
+
+比赛提交仓库访问链接：[https://gitlab.eduxiji.net/202318123111333/project1466467-176092](https://gitlab.eduxiji.net/202318123111333/project1466467-176092)
+
 ## [决赛文档在线链接](https://bugmaker-proj113.gitee.io)
 
 ## 参赛队简介
