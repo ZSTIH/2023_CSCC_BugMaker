@@ -1,0 +1,6 @@
+python3 scripts/draw_fio_dynamic_load_balancing_new.py
+python3 scripts/draw_fio_failover_failback_new.py
+python3 scripts/draw_fio_load_balancing_new.py
+python3 scripts/draw_fio_static_load_balancing_new.py
+python3 scripts/draw_fio_single_multi_path_new.py
+python3 scripts/draw_fio_user_kernel_new.py

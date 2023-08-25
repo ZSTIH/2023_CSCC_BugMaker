@@ -1,0 +1,11 @@
+guest_os_image.qcow2
+nvme/*.o
+nvmf/*.o
+iscsi/*.o
+slides
+core.*
+res
+pic
+temp
+vhost.0
+视频演示所需命令.sh
