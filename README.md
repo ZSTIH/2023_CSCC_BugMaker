@@ -10,6 +10,8 @@
 
 比赛提交仓库访问链接：[https://gitlab.eduxiji.net/202318123111333/project1466467-176092](https://gitlab.eduxiji.net/202318123111333/project1466467-176092)
 
+[决赛答辩PPT](./决赛答辩PPT.pptx)
+
 ## [决赛文档在线链接](https://bugmaker-proj113.gitee.io)
 
 ## 参赛队简介
